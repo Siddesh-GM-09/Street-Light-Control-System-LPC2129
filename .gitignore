@@ -1,0 +1,42 @@
+# ===== Build Output Folders =====
+Listings/
+Objects/
+
+# ===== Keil Build Artifacts =====
+*.o
+*.obj
+*.lst
+*.map
+*.axf
+*.hex
+*.bin
+*.elf
+*.d
+*.crf
+*.htm
+
+# ===== Keil / uVision Temporary Files =====
+*.uvgui.*
+*.uvopt.*
+*.uvtmp
+*.uvopt
+
+# ===== Debug & Simulation Files =====
+*.dbg
+*.sim
+*.log
+
+# ===== Backup & Autosave Files =====
+*~
+*.bak
+*.tmp
+*.swp
+
+# ===== OS / Editor Files =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== Do NOT Ignore Source Files =====
+# .c, .h, .s, .asm files must be committed
